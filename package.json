@@ -17,6 +17,7 @@
     "@angular/forms": "^18.2.0",
     "@angular/platform-browser": "^18.2.0",
     "@angular/platform-browser-dynamic": "^18.2.0",
+    "card-software-library": "file:/Users/jonathanhernandez/Git-Repos/card-software-library/dist/card-software-library",
     "@angular/router": "^18.2.0",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
